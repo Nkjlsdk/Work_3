@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.container {
+    width: 1170px;
+    margin:0 auto;
+}
+.logoGB {
+    margin-top: 40px;
+    margin-bottom: 84px;
+}
+.logoGrowGB {
+    margin-top: 45px;
+    margin-bottom: 89px;
+}
+nav {
+    margin-top: 51px;
+    margin-bottom: 96px;
+   }
+
+main {
+    margin-bottom: 162px;
+}
+
+.title_1 {
+    margin-bottom: 17px;
+}
+.title_2 {
+    margin-bottom: 37px;
+}
+
+.button_1 {
+    padding-top: 15px;
+    padding-bottom: 16px;
+    padding-left: 35px;
+    padding-right: 36px;
+}
+.button_2 {
+    margin-top: 52px;
+    margin-left: 72px;
+
+}
+footer {
+    padding-top: 97;
+    padding-bottom: 96px;
+}
+
